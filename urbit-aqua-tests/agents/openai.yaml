@@ -1,0 +1,4 @@
+interface:
+  display_name: "Urbit Aqua Tests"
+  short_description: "Write reliable multi-ship Aqua test threads"
+  default_prompt: "Use $urbit-aqua-tests to design and implement an Aqua integration test thread."
